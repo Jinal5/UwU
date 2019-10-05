@@ -1,5 +1,11 @@
-hi
+#incude<stdio.h>
+
+int main()
+{
+  prinf("hello");
+  
+  return 0;
+}  
 
 
-hello
 
