@@ -1,10 +1,10 @@
 #incude<stdio.h>
 
-int main()
+void main()
 {
-  prinf("hello");
+  prinf("Hello");
   
-  return 0;
+  
 }  
 
 
